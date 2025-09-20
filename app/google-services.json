@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "194348116206",
+    "project_id": "checador-f42cd",
+    "storage_bucket": "checador-f42cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194348116206:android:bb8f74533e422b047b2bff",
+        "android_client_info": {
+          "package_name": "com.checador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194348116206-eupavm7s6kag5puff5n07eicqvs6e1aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6pcjXpxQeABvAWKEKh79VuUmsE4P9GBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194348116206-eupavm7s6kag5puff5n07eicqvs6e1aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194348116206:android:6b5302a4d762c9227b2bff",
+        "android_client_info": {
+          "package_name": "com.example.checador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194348116206-eupavm7s6kag5puff5n07eicqvs6e1aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6pcjXpxQeABvAWKEKh79VuUmsE4P9GBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194348116206-eupavm7s6kag5puff5n07eicqvs6e1aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
